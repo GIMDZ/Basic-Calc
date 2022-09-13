@@ -86,6 +86,6 @@ body {
 }
 #history {
 	position: absolute;
-	bottom: 5px;
+	bottom: 0;
 	right: 0;
 }
