@@ -1,2 +1,2 @@
 # Basic-Calc
-A simple but effective calculator (studiying purposes)
+A simple but effective calculator (for training purposes)
